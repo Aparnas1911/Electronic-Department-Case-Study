@@ -1,2 +1,64 @@
-# Electronic-Department-Case-Study
-Emergency departments play an important role in providing immediate and life saving care under severe resource limitations. In this case study we examine the present condition of the emergency department of a medium-sized hospital that has almost 55000 patients in a year. The ED faces struggle in resource overuse and efficiency in workflows like registration, triage, and patient routing. The goal of this project is to create a streamlined system that improves patient flow, staff satisfaction, and resource utilisation, ultimately providing high-quality, efficient treatment, by utilising key performance indicators (KPIs) and BPMN and UML to analyse present processes.
+# 🏥 Emergency Department Workflow Optimization – Case Study
+
+## 📌 Overview
+
+This project analyzes the current workflow of a **medium-sized hospital’s Emergency Department (ED)** handling ~55,000 patients annually. The focus is on identifying inefficiencies in processes such as **registration, triage, and patient routing**.
+
+---
+
+## 🎯 Objective
+
+To design a streamlined system that improves:
+
+* Patient flow
+* Resource utilization
+* Staff efficiency and satisfaction
+* Overall quality of care
+
+---
+
+## 🔍 Key Challenges Identified
+
+* Resource overuse
+* Delays in registration and triage
+* Inefficient patient routing
+* Workflow bottlenecks
+
+---
+
+## 🛠️ Approach
+
+* Analyzed existing workflows using **BPMN diagrams**
+* Modeled system interactions using **UML diagrams**
+* Evaluated performance using **Key Performance Indicators (KPIs)**
+
+---
+
+## 📊 Outcome
+
+Proposed optimized workflows to:
+
+* Reduce patient wait times
+* Improve process efficiency
+* Enhance resource allocation
+
+---
+
+## 🧠 Learning
+
+* Process analysis and optimization
+* BPMN & UML modeling
+* Healthcare system workflow understanding
+
+---
+
+## 📁 Artifacts
+
+* BPMN Diagrams
+* UML Diagrams
+* KPI Analysis
+
+---
+
+**Aparna Santhoshkumar**
+London, Ontario
